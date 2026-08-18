@@ -39,3 +39,4 @@ function getAverageRating(
 console.log(getAverageRating(movies));
 console.log(getAverageRating([]));
 
+export {};

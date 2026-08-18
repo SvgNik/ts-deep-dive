@@ -46,3 +46,4 @@ console.log(countMoviesWithoutPoster(catalog));
 // console.log(m.title);
 // 'm' is possibly 'undefined'.ts(18048)
 
+export {};

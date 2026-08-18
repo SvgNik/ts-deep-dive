@@ -38,3 +38,5 @@ console.log(userDescription);
 
 const roleLabel = getRoleLabel("user");
 console.log(roleLabel);
+
+export {};
