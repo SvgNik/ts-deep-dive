@@ -30,3 +30,5 @@ function getUserLabel(name: string | null): string {
 getUserLabel("Nik");
 getUserLabel(null);
 getUserLabel("");
+
+export {};

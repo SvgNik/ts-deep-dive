@@ -45,3 +45,5 @@ console.log(countMoviesWithoutPoster(catalog));
 // const m = catalog.find((x) => x.id === 320);
 // console.log(m.title);
 // 'm' is possibly 'undefined'.ts(18048)
+
+export {};

@@ -37,3 +37,5 @@ getErrorMessage(new Error("Сеть недоступна"));
 getErrorMessage("Текстовая ошибка");
 getErrorMessage(42);
 getErrorMessage(null);
+
+export {};

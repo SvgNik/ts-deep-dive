@@ -18,3 +18,5 @@ console.log(getRoleLabel("user"));
 console.log(getRoleLabel("admin"));
 // console.log(getRoleLabel("amdin"));
 //Argument of type '"amdin"' is not assignable to parameter of type '"guest" | "user" | "admin"'.ts(2345)
+
+export {};
