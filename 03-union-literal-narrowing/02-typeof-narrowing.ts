@@ -31,4 +31,3 @@ getUserLabel("Nik");
 getUserLabel(null);
 getUserLabel("");
 
-export {};

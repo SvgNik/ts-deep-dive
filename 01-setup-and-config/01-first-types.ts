@@ -17,5 +17,3 @@ console.log(getGreeting("Nik", 10));
 
 // const incorrectVariable: number = formatRating(8);
 // TS2322: Type 'string' is not assignable to type 'number'.
-
-export {};

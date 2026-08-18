@@ -52,4 +52,3 @@ function parseInput(value: string | number | boolean): string {
   return trimmed;
 }
 
-export {};
